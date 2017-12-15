@@ -5,7 +5,7 @@ Instead, it outputs fake results for document search, field segmentation, recogn
 
 For more information please see our other demo repositories:
 
-Smart IDReader iOS SDK: https://github.com/SmartEngines/SmartIDReader-iOS-SDK
+Smart IDReader iOS SDK: https://github.com/SmartEngines/SmartIDReader-iOS-SDK  
 Smart IDReader Android SDK: https://github.com/SmartEngines/SmartIDReader-Android-SDK
 
 Free demonstrational applications with full functionality are available at [App Store](https://itunes.apple.com/app/smart-idreader/id1157877082) and [Google Play](https://play.google.com/store/apps/details?id=biz.smartengines.smartid).
